@@ -24,6 +24,8 @@
     ],
     "ios": {
       "supportsTablet": true
-    }
+    },
+    "description": "A React Native companion to WOLM Tourism Website",
+    "githubUrl": "https://github.com/cmonkey03/wolm-native"
   }
 }
